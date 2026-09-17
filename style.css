@@ -1,0 +1,12 @@
+* {
+  background-color: antiquewhite;
+}
+
+header > h2 {
+  text-align: center;
+}
+
+section {
+  padding: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
