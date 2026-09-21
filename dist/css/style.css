@@ -1,0 +1,19 @@
+* {
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  background-color: blanchedalmond;
+}
+
+.daftar {
+  border-width: 2px;
+  border-style: solid;
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  gap: 24px;
+}
